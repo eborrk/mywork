@@ -1,0 +1,321 @@
+爬虫将soup打印为:
+C:\Users\ebork\AppData\Local\Programs\Python\Python311\python.exe C:\Users\ebork\PycharmProjects\pythonProject\main.py 
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+<head>
+<title>葬送的芙莉莲第36话 心灵支柱 - 葬送的芙莉莲 - 冒险-奇幻-漫画1234</title>
+<meta content="webkit" name="renderer"/>
+<meta charset="utf-8"/>
+<meta content="pc" name="applicable-device"/>
+<meta content="format=html5; url=https://m.ymh1234.com/comic/22157/1730164.html" http-equiv="mobile-agent"><meta content="format=xhtml; url=https://m.ymh1234.com/comic/22157/1730164.html" http-equiv="mobile-agent"><link href="https://m.ymh1234.com/comic/22157/1730164.html" rel="miphtml"/>
+<meta content="葬送的芙莉莲,冒险-奇幻" name="keywords"/>
+<meta content="打倒魔王“之后”的勇者一行人中，身为魔法使的芙莉莲同时是一个精灵，她和另外三人有漫画1234" name="description"/>
+<meta content="_csrf" name="csrf-param"/>
+<meta content="uKBakAsn8_lUKK2PF9H17xiJj9Gqfv5NpkxMB91zy2aP0C6paVKqvw5ayMJTmqS5UcDNnpI1rCbpdAJNrieoJQ==" name="csrf-token"/>
+<link href="/assets/2b2740b8/css/font-awesome.min.css" rel="stylesheet"/>
+<link href="/assets/be91e675/css/bootstrap.css" rel="stylesheet"/>
+<link href="/plugins/toastr/toastr.min.css" rel="stylesheet"/>
+<link href="/css/main.css" rel="stylesheet"/>
+<link href="/assets/86569707/css/chapter.css" rel="stylesheet"/>
+<script src="/js/phone.js"></script>
+<script>;phone.check("https://m.ymh1234.com");</script> </meta></meta></head>
+<body>
+<script>;var siteName = "";var siteUrl = "https://www.ymh1234.com";;var chapterImages = ["1670424508zwz84P8reDvWhkrL.jpg","1670424505tfINcO--WFJYJ7tD.jpg","1670424503gV9lUdAEYoQjzfE-.jpg","1670424501hoU529WvElCU4UX2.jpg","1670424494k4zY5H6GfAobobgx.jpg","1670424487_-AitYXd0ehR8mUw.jpg","1670424486X_pGdoC8FexI0_SK.jpg","1670424484kQUs3X98wekDximH.jpg","1670424482qmm7OZt44mRYjmd-.jpg","1670424479JQrygvjEe5UKbFHd.jpg","16704244770Dx5zBXAEGAPm67A.jpg","1670424475zjahnt6wzGQtD5VT.jpg","1670424474j6eKAMIwn9flyS7W.jpg","1670424468hTdhQAsoZdQS7Fm5.jpg","1670424465qYkbjVI2pT8dBX77.jpg","1670424462KXEsyCMxvAkZUmEJ.jpg","1670424460nDyrxNVg_rOR_jP4.jpg","1670424458b28Il4LvgfZpg6i1.jpg","1670424455lqZXDovj3ttafv1U.jpg","1670424453p_CdlRclgJyxHHDe.jpg","1670424452cPkqPCwkF2JCbQcE.jpg"];var chapterPath = "images/comic/866/1730164/";var pageTitle = "葬送的芙莉莲第36话 心灵支柱 - 葬送的芙莉莲 - 冒险-奇幻";var comicUrl = "https://www.ymh1234.com/comic/22157.html";var pageUrl = "https://www.ymh1234.com/comic/22157.html";var pageImage = "https://images.wszwhg.net/images/cover/202203/16471378155A-Tie9YV1-1KgwI.jpg";var pageDomain = "https://www.ymh1234.com";var pageId = "comic.22157";var prevChapterData = {"id":1730163,"comic_id":22157,"comic_name":"葬送的芙莉莲","status":1,"vip":0,"is_end":0,"name":"第35话 踏上旅途的契机","type":0,"rtl":0,"image_mode":0,"category":1,"link":"","link_name":"","image_type":0,"count":21,"sort":23800,"price":0,"created_at":1670405225,"updated_at":1670424448,"uri":"\/comic\/22157\/1730163.html","url":"https:\/\/www.ymh1234.com\/comic\/22157\/1730163.html"};var nextChapterData = {"id":1730165,"comic_id":22157,"comic_name":"葬送的芙莉莲","status":1,"vip":0,"is_end":0,"name":"第37话 一级考试","type":0,"rtl":0,"image_mode":0,"category":1,"link":"","link_name":"","image_type":0,"count":21,"sort":24000,"price":0,"created_at":1670405225,"updated_at":1670424544,"uri":"\/comic\/22157\/1730165.html","url":"https:\/\/www.ymh1234.com\/comic\/22157\/1730165.html"};</script><div class="head">
+<div class="main" style="text-align:left;">
+<div class="nav" id="topNav"><a href="/">首页</a><a href="/comic/list/1/" title="热血">少年热血</a><a href="/comic/list/2/" title="格斗">武侠格斗</a><a href="/comic/list/3/" title="科幻">科幻魔幻</a><a href="/comic/list/6/" title="推理">侦探推理</a><a href="/comic/list/7/" title="恐怖">恐怖灵异</a><a href="/comic/list/8/" title="耽美">耽美人生</a><a href="/comic/list/9/" title="少女">少女爱情</a><a class="green" href="/comic/one/page_wanjie.html">完结</a><a class="green" href="/comic/one/page_lianzai.html">连载</a><a class="green" href="/comic/all/">全部</a><a class="hot" href="/comic/one/page_recent.html">最新更新</a></div>
+</div>
+</div>
+<div class="subNav">
+<div class="search" id="search">
+<fieldset>
+<input autocomplete="off" class="keyword" id="keywords" lang="zh-CN" placeholder="请输入关键字..." type="text" x-webkit-grammar="builtin:search" x-webkit-speech=""/>
+<input class="button" id="btnSearch" type="button" value="搜索漫画"/>
+</fieldset>
+<div class="suggest" id="search-results"></div>
+</div>
+<span id="position">
+<strong>您当前的位置：</strong><a href="/">漫画首页</a> &gt;&gt; <a href="/comic/list/page_maoxian/">冒险</a>|<a href="/comic/list/page_qihuan/">奇幻</a> &gt;&gt; <a href="/comic/22157.html">葬送的芙莉莲</a> </span>
+</div>
+<div align="center" class="main">
+<script src="/gd/g_js/show_970_h1.js"></script>
+</div>
+<div class="height_4px"></div>
+<a name="lookpic"></a>
+<h1>葬送的芙莉莲 第36话 心灵支柱 <span id="qTcms_picID">第<b class="curPage" id="page">1</b>画</span></h1>
+<div align="center" class="main"><script src="/gd/g_js/show_970_h3.js"></script></div>
+<div class="picNav">
+<a class="fs" href="javascript:SinTheme.fullScreen();" title="全屏浏览"><span>全屏浏览</span></a>
+<a class="prev" href="javascript:SinTheme.prevPage();" title="上一页"><span>上一页</span></a>
+<select class="pageSelect nav-pagination" id="qTcms_select_i" onchange="SinTheme.jumpPage(this.options[this.selectedIndex].value);">
+</select>
+<a class="next" href="javascript:SinTheme.nextPage();" title="下一页"><span>下一页</span></a>
+<a class="dir" href="/comic/22157.html" id="book" title="返回目录">返回目录</a></div>
+<div align="center" class="main"><script src="/gd/g_js/show_970_h5.js"></script></div>
+<div class="iFloat">
+<div class="iBox">
+<span id="sList">
+<div><span><b>键盘键</b>[→:下一页][←:上一页] <b>提示</b>:图片打不开?点 <a class="red report" href="/feedback/create/?cate=3" target="_blank" title="提交错误报告">报错</a>! <a class="red report" href="/feedback/create/?cate=3" target="_blank" title="举报低俗、不良漫画">举报低俗</a> </span>
+</div>
+</span>
+</div>
+</div>
+<div class="pr tbCenter clearfix" id="tbCenter">
+<div id="images">
+<div class="main-left" id="sider-left" style="display:block;"><!--广告位--></div>
+<div class="main-right" id="sider-right" style="display:block;"><!--广告位--></div>
+</div>
+<div class="img-loading" id="imgLoading"><i></i><span>图片努力加载中，请稍候</span></div>
+</div>
+<div align="center" class="main"><script src="/gd/g_js/show_970_h6.js"></script></div>
+<div class="picNav">
+<a class="fs" href="javascript:SinTheme.fullScreen();" title="全屏浏览"><span>全屏浏览</span></a>
+<a class="prev" href="javascript:SinTheme.prevPage();" title="上一页"><span>上一页</span></a>
+<select class="pageSelect nav-pagination" id="qTcms_select_i" onchange="SinTheme.jumpPage(this.options[this.selectedIndex].value);">
+</select>
+<a class="next" href="javascript:SinTheme.nextPage();" title="下一页"><span>下一页</span></a>
+<a class="dir" href="/comic/22157.html" id="book" title="返回目录">返回目录</a></div>
+<div align="center" class="main"><script src="/gd/g_js/show_970_h4.js"></script></div>
+<div class="notice" style="margin-bottom:5px"><a href="/feedback/create/?cate=3">看漫画出错点这里报告</a> <span>提示：按Ctrl+D就能记将 《<strong>葬送的芙莉莲 第36话 心灵支柱</strong>》加入收藏夹！</span></div>
+<div class="hotUpdate outline">
+<div class="bar lh30">
+<div class="fr more"><a class="hot" href="https://www.ymh1234.com/">古风漫画</a></div>
+<h3>漫画推荐</h3>
+</div>
+<div class="icmd_cover_list">
+<ul id="w0"><li class="item" data-key="16775"><p class="cover">
+<a class="pic" href="https://www.ymh1234.com/comic/16775.html">
+<img _src="https://images.wszwhg.net/images/o/53/bd/f5a90f2b85cee312718eb4349818.jpg" alt="斗罗大陆4终极斗罗" src="https://images.wszwhg.net/images/o/53/bd/f5a90f2b85cee312718eb4349818.jpg"/>
+</a>
+<span>
+<a class="yellow" href="/comic/16775/1728604.html" target="_blank">蓝轩宇的想法</a> </span>
+</p>
+<a href="https://www.ymh1234.com/comic/16775.html" title="斗罗大陆4终极斗罗">斗罗大陆4终极斗罗</a></li>
+<li class="item" data-key="12680"><p class="cover">
+<a class="pic" href="https://www.ymh1234.com/comic/12680.html">
+<img _src="https://images.wszwhg.net/images/o/da/97/365e2adb6d2ca77eaae19431d0b3.jpg" alt="万界仙踪" src="https://images.wszwhg.net/images/o/da/97/365e2adb6d2ca77eaae19431d0b3.jpg"/>
+</a>
+<span>
+<a class="yellow" href="/comic/12680/1723385.html" target="_blank">第507话</a> </span>
+</p>
+<a href="https://www.ymh1234.com/comic/12680.html" title="万界仙踪">万界仙踪</a></li>
+<li class="item" data-key="16778"><p class="cover">
+<a class="pic" href="https://www.ymh1234.com/comic/16778.html">
+<img _src="https://images.wszwhg.net/images/o/5d/c5/8a9f8b46ae38091da9184f16aced.jpg" alt="我的守护女友" src="https://images.wszwhg.net/images/o/5d/c5/8a9f8b46ae38091da9184f16aced.jpg"/>
+</a>
+<span>
+<a class="yellow" href="/comic/16778/1458089.html" target="_blank">第366话</a> </span>
+</p>
+<a href="https://www.ymh1234.com/comic/16778.html" title="我的守护女友">我的守护女友</a></li>
+<li class="item" data-key="16986"><p class="cover">
+<a class="pic" href="https://www.ymh1234.com/comic/16986.html">
+<img _src="https://images.wszwhg.net/images/cover/201907/1564162169PDF63noaJ_OMkr__." alt="字魂" src="https://images.wszwhg.net/images/cover/201907/1564162169PDF63noaJ_OMkr__."/>
+</a>
+<span>
+<a class="yellow" href="/comic/16986/819900.html" target="_blank">终结</a> </span>
+</p>
+<a href="https://www.ymh1234.com/comic/16986.html" title="字魂">字魂</a></li>
+<li class="item" data-key="16425"><p class="cover">
+<a class="pic" href="https://www.ymh1234.com/comic/16425.html">
+<img _src="https://images.wszwhg.net/images/o/ba/a8/71f85b6941615977e2bdada65ada.jpg" alt="戒魔人" src="https://images.wszwhg.net/images/o/ba/a8/71f85b6941615977e2bdada65ada.jpg"/>
+</a>
+<span>
+<a class="yellow" href="/comic/16425/1359004.html" target="_blank">十话 曲终</a> </span>
+</p>
+<a href="https://www.ymh1234.com/comic/16425.html" title="戒魔人">戒魔人</a></li>
+<li class="item" data-key="16777"><p class="cover">
+<a class="pic" href="https://www.ymh1234.com/comic/16777.html">
+<img _src="https://images.wszwhg.net/images/cover/201907/1563858444hK5n7v3CVBias82r." alt="我的守护女友（页漫）" src="https://images.wszwhg.net/images/cover/201907/1563858444hK5n7v3CVBias82r."/>
+</a>
+<span>
+<a class="yellow" href="/comic/16777/840189.html" target="_blank">118</a> </span>
+</p>
+<a href="https://www.ymh1234.com/comic/16777.html" title="我的守护女友（页漫）">我的守护女友（页漫）</a></li>
+<li class="item" data-key="16404"><p class="cover">
+<a class="pic" href="https://www.ymh1234.com/comic/16404.html">
+<img _src="https://images.wszwhg.net/images/cover/201907/15632054420sEwsBKJLiEOLykg." alt="最强神兽系统" src="https://images.wszwhg.net/images/cover/201907/15632054420sEwsBKJLiEOLykg."/>
+</a>
+<span>
+<a class="yellow" href="/comic/16404/971656.html" target="_blank">第263话 终极一战</a> </span>
+</p>
+<a href="https://www.ymh1234.com/comic/16404.html" title="最强神兽系统">最强神兽系统</a></li>
+<li class="item" data-key="11955"><p class="cover">
+<a class="pic" href="https://www.ymh1234.com/comic/11955.html">
+<img _src="https://images.wszwhg.net/upload/2017-08-28/2017828143748552.jpg" alt="一拳超人" src="https://images.wszwhg.net/upload/2017-08-28/2017828143748552.jpg"/>
+</a>
+<span>
+<a class="yellow" href="/comic/11955/1723633.html" target="_blank">219 第219话 访问者</a> </span>
+</p>
+<a href="https://www.ymh1234.com/comic/11955.html" title="一拳超人">一拳超人</a></li>
+<li class="item" data-key="18219"><p class="cover">
+<a class="pic" href="https://www.ymh1234.com/comic/18219.html">
+<img _src="https://images.wszwhg.net/images/cover/202001/1579548481yxEmPPJmj6bg02C8.webp" alt="精灵梦叶罗丽第八季" src="https://images.wszwhg.net/images/cover/202001/1579548481yxEmPPJmj6bg02C8.webp"/>
+</a>
+<span>
+<a class="yellow" href="/comic/18219/956217.html" target="_blank">第58话</a> </span>
+</p>
+<a href="https://www.ymh1234.com/comic/18219.html" title="精灵梦叶罗丽第八季">精灵梦叶罗丽第八季</a></li>
+<li class="item" data-key="16428"><p class="cover">
+<a class="pic" href="https://www.ymh1234.com/comic/16428.html">
+<img _src="https://images.wszwhg.net/images/o/4b/5e/6e08e775ebb69f6b5c157468d964.jpg" alt="妹子与科学" src="https://images.wszwhg.net/images/o/4b/5e/6e08e775ebb69f6b5c157468d964.jpg"/>
+</a>
+<span>
+<a class="yellow" href="/comic/16428/1728005.html" target="_blank">776 全能的三个权柄</a> </span>
+</p>
+<a href="https://www.ymh1234.com/comic/16428.html" title="妹子与科学">妹子与科学</a></li>
+<li class="item" data-key="15632"><p class="cover">
+<a class="pic" href="https://www.ymh1234.com/comic/15632.html">
+<img _src="https://images.wszwhg.net/images/o/14/6e/bb9ea5897b66635bbc8e74b79de4.jpg" alt="放开那个女巫" src="https://images.wszwhg.net/images/o/14/6e/bb9ea5897b66635bbc8e74b79de4.jpg"/>
+</a>
+<span>
+<a class="yellow" href="/comic/15632/1732092.html" target="_blank">453 梦境世界</a> </span>
+</p>
+<a href="https://www.ymh1234.com/comic/15632.html" title="放开那个女巫">放开那个女巫</a></li>
+<li class="item" data-key="13735"><p class="cover">
+<a class="pic" href="https://www.ymh1234.com/comic/13735.html">
+<img _src="https://images.wszwhg.net/images/o/66/e2/d46af2fdd6a364a6130b91b3e52a.jpg" alt="我的天劫女友" src="https://images.wszwhg.net/images/o/66/e2/d46af2fdd6a364a6130b91b3e52a.jpg"/>
+</a>
+<span>
+<a class="yellow" href="/comic/13735/1729250.html" target="_blank">754、人前显圣</a> </span>
+</p>
+<a href="https://www.ymh1234.com/comic/13735.html" title="我的天劫女友">我的天劫女友</a></li></ul> </div>
+</div>
+<div class="footer">
+<div class="main">
+
+        漫画1234资源均来源于网络，仅提供低品质漫画在线试看，不提供漫画资源下载！如有侵犯到您的版权，请联系我们，确认之后立即删除。
+        <br/>
+<a href="javascript:SinMH.addFavorite(siteUrl,siteName);return false;" target="_self">加入收藏</a> |
+
+        <a class="red" href="javascript:;" onmouseout="window.status='漫画1234';return true;" onmouseover="window.status='将本站设为首页';return true;" style="behavior: url(#default#homepage);" target="_self"><strong>下次上网自动访问本站</strong></a>
+
+        | <a class="blue" href="/feedback/create/?cate=1"><strong>推荐漫画</strong></a>
+        | <a class="green" href="/feedback/create/?cate=2"><strong>举报低俗内容</strong></a>
+        | <a href="#">返回顶部</a> <br/>
+        Copyright © 2014-2015 www.ymh1234.com All rights reserved <a href="https://www.ymh1234.com/">漫画1234</a> 版权所有
+
+    </div>
+</div>
+<!-- }版权结束-->
+<script id="res-template" type="text/html">
+    <span>线路选择→ &nbsp;</span>
+    <%if(list&&list.length>0){
+    var resHostIndex = SinMH.getResHostIndex();
+    for(var i = 0; i
+    <list.length;i++){
+    var item = list[i];
+    var active = i == resHostIndex?'active':'';
+    %>
+    <a href="javascript:SinMH.setResHost(<%=i%>)" class="<%=active %>"><%=item.name%></a>
+    <%}
+    }else{%>
+    无服务器可选
+    <%}%>
+</script>
+<div class="scroll-top"><a href="javascript:SinMH.scrollTo(0);" id="backTop" title="返回顶部">回到顶部</a></div>
+<div aria-labelledby="alert-modal" class="modal fade" id="alert-modal" role="dialog" tabindex="-1">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<button aria-label="Close" class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span>
+</button>
+<h4 class="modal-title">提示信息</h4>
+</div>
+<div class="modal-body text-center"> 弹窗内容</div>
+<div class="modal-footer text-center" style="text-align: center;">
+<button aria-label="Close" class="btn btn-primary" data-dismiss="modal" type="button">确   定
+                </button>
+</div>
+</div>
+</div>
+</div>
+<div aria-labelledby="confirm-modal" class="modal fade" id="confirm-modal" role="dialog" tabindex="-1">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<button aria-label="Close" class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span>
+</button>
+<h4 class="modal-title">提示信息</h4>
+</div>
+<div class="modal-body text-center"> 弹窗内容</div>
+<div class="modal-footer text-center" style="text-align: center;">
+<button aria-label="Confirm" class="btn btn-primary btn-confirm" data-dismiss="modal" type="button">确
+                      定
+                </button>
+<button aria-label="Close" class="btn btn-default" data-dismiss="modal" type="button">取   消
+                </button>
+</div>
+</div>
+</div>
+</div>
+<div style="display:none"></div>
+<script id="search-template" type="text/html">
+    <%if(items&&items.length>0){%>
+    <%for(var i = 0; i
+    <items.length;i++){
+    var item = items[i];
+    %>
+    <li title="<%=item.title%>" data-url="<%= item.uri %>">
+        <span class="pull-right">更新至：
+        <a href="<%= item.lastChapterUri%>"><%=item.last_chapter_name%></a></span>
+        [<%=item.author%>]
+        <a href="<%= item.uri %>"><%=item.title%></a>
+        [<span class="<%=item.serialise==1?'text-danger':'text-success'%>"><%=item.serialise==1?'连载中':'已完结'%></span>]
+
+    </li>
+    <%}%>
+    <%}else{%>
+    <li>暂无搜索结果</li>
+    <%}%>
+</script>
+<script id="history-template" type="text/html">
+    <%if(list&&list.length>0){%>
+    <ul>
+        <%for(var i = 0; i < list.length;i++){
+        var item = list[i];
+        %>
+        <li>
+            <span class="hDelete hdel" title="删除" rel="<%=item.comic_id%>"
+                  onclick="SinMH.removeHistory('<%=item.comic_id%>')"></span>
+            <span class="fr">[<a href="<%=item.read_chapter_url%>" class="red"><%=item.read_chapter%></a>]-[<a
+                        href="<%=item.read_chapter_url%>?p=<%=item.read_page%>" class="green">第<%=item.read_page%>页</a>]</span><a
+                    class="big"
+                    href="<%=item.comic_url%>"><%=item.comic_name%></a>
+            <span class="hTime">上次于 <%= filter.asDateTime(item.read_at)%> 观看</span></li>
+        <%}%>
+    </ul>
+    <%}else{%>
+    暂无历史纪录
+    <%}%>
+</script>
+<script src="/assets/d029c204/jquery.js"></script>
+<script src="/assets/a119f676/yii.js"></script>
+<script src="/assets/be91e675/js/bootstrap.js"></script>
+<script src="/plugins/toastr/toastr.min.js"></script>
+<script src="/plugins/baiduTemplate.js"></script>
+<script src="/plugins/jquery/jquery.cookie.js"></script>
+<script src="/plugins/jquery/jquery.image.js"></script>
+<script src="/plugins/jquery/jquery.lazyload.min.js"></script>
+<script src="/plugins/jquery/jquery.hotkeys.js"></script>
+<script src="/plugins/bootstrap/bootstrap.hover.dropdown.js"></script>
+<script src="/plugins/bootstrap/bootstrap.hover.tab.js"></script>
+<script src="/js/config.js"></script>
+<script src="/js/common.js"></script>
+<script src="/assets/86569707/js/theme.js"></script>
+<script>jQuery(function ($) {
+;SinMH.init();SinTheme.init();$("img").lazyload();SinMH.initChapter(1730164,"第36话 心灵支柱",22157,"葬送的芙莉莲");
+SinTheme.initChapter(1730164,"第36话 心灵支柱",22157,"葬送的芙莉莲");
+;SinMH.init();SinTheme.init();$("img").lazyload();
+});</script></body>
+</html>
+
+Traceback (most recent call last):
+  File "C:\Users\ebork\PycharmProjects\pythonProject\main.py", line 12, in <module>
+    img_url = soup.find("img", class_="comicimg")["src"]
+              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+TypeError: 'NoneType' object is not subscriptable
+
+Process finished with exit code 1
+那我如何获取该url的图片
